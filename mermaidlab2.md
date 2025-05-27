@@ -8,7 +8,7 @@ config:
 ---
  
 flowchart TB
-A["Preheat over to 500 Degrees F or 260 Degrees C"]
+A["Preheat oven to 500 Degrees F or 260 Degrees C"]
 B["Form the Dough"]
 C["Knead the dough for 8-10 minutes"]
 D["Spray the pizza pan with cooking spray"]
